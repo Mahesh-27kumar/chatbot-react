@@ -2,6 +2,8 @@
 
 Welcome to the Chatbot Application! This project is a simple, interactive chatbot built with React. It greets users, asks for their names, and engages in basic conversations. The chatbot utilizes the `react-type-animation` library for typing animations and `react-bootstrap` for UI components.
 
+# This bot Deployment link:-
+     Link : https://protochatbot.netlify.app/
 ## Features
 
 - **User Greeting**: The chatbot initiates the conversation by greeting the user and asking for their name.
@@ -61,6 +63,26 @@ Contributions are welcome! To contribute:
 3. Make your changes and commit them: `git commit -m 'Add some feature'`.
 4. Push to the branch: `git push origin feature-branch-name`.
 5. Open a pull request.
+   
+## Bot Cmds
+By using This Pre Giving cmds
+
+1. hi,hello,hey.
+2. date.
+3. time.
+4. your age.
+5. google link.
+6. youtube link.
+7. github link.
+8. bank interst rate.
+9. weather.
+10. location
+11. thank you.
+12. how are you.
+13. your creator.
+14. your purpose.
+15. buy me some things.
+16. .
 
 ## License
 
